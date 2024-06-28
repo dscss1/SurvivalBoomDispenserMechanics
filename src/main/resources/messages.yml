@@ -1,0 +1,13 @@
+#
+# SurvivalBoom Dispenser Mechanics | SurvivalBoom Network 2024
+#                    Messages File | By TIMURishche
+#
+
+command-error: "&c&l! &fСталася помилка при спробі виконати команду! Кодер - динозавр! &4ЫыЫыЫыЫыЫ"
+no-permission: "&c| &fУ вас немає доступу до цього! (&c{PERMISSION}&f)"
+
+reload-success: "&a| &fПлагін &aSurvivalBoomDispenserMechanics &fуспішно перезавантажено!"
+
+help: |
+  &8| &c/sbdm reload &7- Перезавантажити плагін.
+  &8| &c/sbdm help &7- Виводить ось цей дуже цікавий текст.

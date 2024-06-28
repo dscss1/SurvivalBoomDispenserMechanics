@@ -1,0 +1,17 @@
+name: SurvivalBoomDispenserMechanics
+version: '${version}'
+main: net.survivalboom.survivalboomdispensermechanics.SurvivalBoomDispenserMechanics
+api-version: '1.20'
+softdepend: [PlaceholderAPI]
+authors: [TIMURishche]
+description: Плагін на розширення можливостей роздавача
+website: https://survivalboom.net
+
+commands:
+  survivalboomdispensermechanics:
+    usage: /<command> args...
+    description: "Плагін для розширення можливостей роздавача."
+    aliases:
+      - sbdispenser
+      - sbd
+      - sbdm

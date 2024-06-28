@@ -1,0 +1,45 @@
+#
+# SurvivalBoom Dispenser Mechanics | SurvivalBoom Network 2024
+#               Configuration File | By TIMURishche
+#
+
+# Предмети які плагін буде вважати зброєю та їх шкода при ударі.
+weapons:
+  - "WOODEN_SWORD:4"
+  - "STONE_SWORD:5"
+  - "IRON_SWORD:6"
+  - "GOLD_INGOT:4"
+  - "DIAMOND_SWORD:7"
+  - "NETHERITE_SWORD:8"
+
+tools:
+  - "WOODEN_PICKAXE"
+  - "STONE_PICKAXE"
+  - "IRON_PICKAXE"
+  - "GOLDEN_PICKAXE"
+  - "DIAMOND_PICKAXE"
+  - "NETHERITE_PICKAXE"
+  - "WOODEN_SHOVEL"
+  - "STONE_SHOVEL"
+  - "IRON_SHOVEL"
+  - "GOLDEN_SHOVEL"
+  - "DIAMOND_SHOVEL"
+  - "NETHERITE_SHOVEL"
+  - "WOODEN_AXE"
+  - "STONE_AXE"
+  - "IRON_AXE"
+  - "GOLDEN_AXE"
+  - "DIAMOND_AXE"
+  - "NETHERITE_AXE"
+  - "WOODEN_HOE"
+  - "STONE_HOE"
+  - "IRON_HOE"
+  - "GOLDEN_HOE"
+  - "DIAMOND_HOE"
+  - "NETHERITE_HOE"
+  - "WOODEN_SWORD"
+  - "STONE_SWORD"
+  - "IRON_SWORD"
+  - "GOLDEN_SWORD"
+  - "DIAMOND_SWORD"
+  - "NETHERITE_SWORD"
